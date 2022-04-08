@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Algorithm
+    title: Stochastic Process
     url: ''
  
 
